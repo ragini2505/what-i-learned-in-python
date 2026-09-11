@@ -1,0 +1,22 @@
+Core File Modes
+
+- 'r' (Read): Opens a file for reading. 
+
+- 'w' (Write): Opens a file for writing.
+   If the file already exists, it erases everything inside it (overwrites it). If the file doesn't exist, 
+   it creates a new one.
+
+-  'a' (Append): Opens a file for adding data to the end.
+    It keeps existing data and adds new text to the bottom. If the file doesn't exist, it creates a new one.  
+
+-  'x' (Exclusive Creation): Creates and opens a new file for writing. 
+    If the file already exists, the operation fails with a FileExistsError.   
+
+-   't' (Text Mode): Used for reading or writing text files (like .txt, .csv, .html).
+     This is the default.
+
+
+-    'b' (Binary Mode): Used for non-text files like images, audio, or PDFs ('rb', 'wb').
+
+
+

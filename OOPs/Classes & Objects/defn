@@ -1,0 +1,9 @@
+Class 
+     - blueprint or template for creating objects
+Object 
+      - actual instance of a Class
+
+     example-
+     map-Class
+     house - object
+

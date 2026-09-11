@@ -1,0 +1,12 @@
+features-
+1 - immutable
+2 - heterogeneous
+3 - list[]
+4 - () used to create tuple
+
+Methods used in tuple
+-len()
+-min max
+-count()
+-index()
+-sorted()

@@ -1,0 +1,31 @@
+String and characters
+
+numbers
+a-z A-Z !@#$%^&*
+white space
+" "
+
+single quotes - 'python'
+double quotes - "python"
+triple quotes-
+'''
+run this
+'''
+
+"""
+not now
+"""
+
+---------------------------------------------------------------
+three characteristics of string-
+- immutable
+-------------------------------------------------
+- indexed
+-indexing(0-indexed) - positive indexing
+                     - negative indexing
+- iterable  
+
+----------------------
+operations-
+
+

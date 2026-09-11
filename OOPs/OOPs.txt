@@ -1,0 +1,17 @@
+OOPs-
+- represent real world thing as Objects
+
+Objects representation - data (Attributes)
+                       - function (Method / behaviour)
+
+
+Object - Attributes (properties)
+        - Behaviour (actions)
+
+"""Concepts"""
+1- classes & Objects
+2- inheritance : reuse properties/methods form a parent class
+3- encapsulation - hiding data and allowing controlled access
+4- abstraction -  hiding unneccessary details
+5- polymorphism  - one name multiple forms
+

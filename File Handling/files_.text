@@ -1,0 +1,9 @@
+two primary files type
+- text files(.txt, .csv)
+- binary files (non text data, .png, .pdf, .jpg, .mp3)
+
+with statement
+with open('file_name','mode') as file_name:
+    print(file_name.read())
+
+    

@@ -1,0 +1,5 @@
+file = open(r'C:\Users\hp\Desktop\python_revision\File Handling\files.txt','w')
+content = input('enter the data to write : ')
+file.write(content)
+print('data saved successfully!')
+file.close()
